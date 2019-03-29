@@ -23,7 +23,7 @@ html {
     border-radius: 1rem;
   
   }
-main > p {
+main > section > p {
     height: 40vh;
     width: 100vh;
 
